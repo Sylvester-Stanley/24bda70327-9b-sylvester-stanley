@@ -1,5 +1,5 @@
-NAME: Naomi Zephania
-UID:24BDA70345
+NAME: Sylvester Stanley
+UID:24BDA70327
 EXPT: 9B
 
 AIM: Build a Next.js app, containerize it with Docker, and ship it automatically using GitHub Actions.
